@@ -14,8 +14,8 @@ The purpose of this repository is to study a minimal GPT-style model and underst
 
 ## File
 
-- `microgpt.py` — single-file MicroGPT implementation.
-
+- `microgpt.py` — single-file MicroGPT implementation (raw code -- original).
+- `microgpt_updated.py` — single-file MicroGPT implementation (updated code with GELU, LoRA, RoPE, and Mixture of Expert).
 ## Notes
 
 This project is being used for coursework in MASC515, Spring 2026.
